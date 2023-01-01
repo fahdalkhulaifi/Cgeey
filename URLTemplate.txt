@@ -1,0 +1,5 @@
+#Turn Rewrite Engine On
+RewriteEngine on
+
+#Rewrite for post.html 
+RewriteRule ^Shortcuts post.html [NC,L]
